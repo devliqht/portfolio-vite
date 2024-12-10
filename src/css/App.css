@@ -1,0 +1,11 @@
+@import './download.css';
+@import './hero/hero.css';
+@import './nav.css';
+@import './fonts.css';
+@import './responsive.css';
+@import './index.css';
+@import './about.css';
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;

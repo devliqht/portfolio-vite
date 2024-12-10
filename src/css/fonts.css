@@ -1,0 +1,22 @@
+@font-face {
+    font-family: 'Horizon';
+    src: url('/css/fonts/horizon.otf') format('opentype');
+}
+
+@font-face {
+    font-family: 'Horizon Outlined';
+    src: url('/css/fonts/horizon_outlined.otf') format('opentype');
+}
+
+.ibm-plex-mono-regular {
+    font-family: "IBM Plex Mono", monospace;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.league-spartan {
+    font-family: "League Spartan", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+}

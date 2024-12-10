@@ -1,0 +1,6 @@
+@import './content.css';
+@import './format.css';
+@import './footer.css';
+@import './navbar.css';
+@import './sidebar.css';
+@import '../responsive.css';
